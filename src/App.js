@@ -23,7 +23,6 @@ function App() {
     }
 
     function handleClick(pos){
-      
        setPosition(pos);
     }
 
